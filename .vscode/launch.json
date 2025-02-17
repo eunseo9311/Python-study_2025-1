@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/song-eunseo/Desktop/Python-study_2025-1",
+      "program": "/Users/song-eunseo/Desktop/Python-study_2025-1/build/Debug/outDebug"
+    }
+  ]
+}
